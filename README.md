@@ -1,5 +1,5 @@
 <div align="center">
-gdjfjfjgkjfkfjk
+
 ![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/master/img/ods_stickers.jpg)
 
 **[mlcourse.ai](https://mlcourse.ai) – Open Machine Learning Course**
